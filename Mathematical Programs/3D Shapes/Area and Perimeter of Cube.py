@@ -1,7 +1,0 @@
-s=int(input('Enter the Side'))
-p=int(s*12)
-print ('Perimeter of the Cube is', s)
-a=6*(s**2)
-print ('Surface Area of the Cube is', a)
-al=4*(l**2)
-print ('Lateral Surface Area of the Cube is', al)
