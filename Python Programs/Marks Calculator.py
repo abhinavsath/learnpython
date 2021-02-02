@@ -39,8 +39,6 @@ elif choice=='Yes':
     print ('Your mark percentage in exams is', percentagechoice, '%')    
 if choice=='No':
     subject=input('Enter the subject you want to calculate the total marks and its Percentage')
-    print ('Warning. Enter a valid subject.')
-    subject=input('Enter the subject you want to calculate the total marks and its Percentage')
     #This section is for Science
     if subject=='Science':
         print ('OK.')
